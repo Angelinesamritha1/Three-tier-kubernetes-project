@@ -1,0 +1,6 @@
+**/secret.yaml
+**/secrets.yaml
+.env
+.env.*
+*.pem
+*.key
